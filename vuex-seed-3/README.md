@@ -58,15 +58,15 @@ npm test
 │   │           └── ..                          // 可扩展
 │   ├── plugins                                 // 引用的插件
 │   ├── service                                 // 数据交互统一调配
-│   │    └── getData.js                          // 获取数据的统一调配文件，对接口进行统一管理。项目统一在此处调用后端的API接口(类似我们angular项目中的service)
+│   │    └── getData.js                         // 获取数据的统一调配文件，对接口进行统一管理。项目统一在此处调用后端的API接口(类似我们angular项目中的service)
 │   ├── vuex                                    // vuex的状态管理
-│   │    ├── action.js                           // 配置actions
-│   │    ├── getters.js                          // 配置getters
-│   │    ├── store.js                            // 引用vuex，创建store
-│   │    ├── modules                             // store模块
-│   │    ├── mutation-types.js                   // 定义常量muations名
-│   │    ├── plugins.js                          // 定义vuex plugins
-│   │    └── mutations.js                        // 配置mutations
+│   │    ├── action.js                          // 配置actions
+│   │    ├── getters.js                         // 配置getters
+│   │    ├── store.js                           // 引用vuex，创建store
+│   │    ├── modules                            // store模块
+│   │    ├── mutation-types.js                  // 定义常量muations名
+│   │    ├── plugins.js                         // 定义vuex plugins
+│   │    └── mutations.js                       // 配置mutations
 │   │
 │   ├── App.vue                                 // 页面入口文件
 │   └── main.js                                 // 程序入口文件，加载各种公共组件
