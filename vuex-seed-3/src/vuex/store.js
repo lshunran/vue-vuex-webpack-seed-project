@@ -1,4 +1,3 @@
-/* eslint-disable */
 import Vue from 'vue'
 import Vuex from 'vuex'
 import getters from './getters'
@@ -11,8 +10,8 @@ import plugins from './plugins'
 import Index from './modules/index'
 /* inject:import end */
 
-
 Vue.use(Vuex)
+
 const state = {
     defaultState: 'defaultState'
 }
@@ -28,6 +27,5 @@ export default new Vuex.Store({
         /* inject start */
         index: Index
             /* inject end */
-
     }
 })

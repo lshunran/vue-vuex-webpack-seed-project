@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default [
     // 登录页面
     {
@@ -7,9 +8,7 @@ export default [
             require(['../views/Index/Index.vue'], resolve)
         }
     }
-    /* eslint-disable */
     /* inject start */
 
     /* inject end */
-
 ]
