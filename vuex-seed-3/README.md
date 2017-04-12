@@ -1,4 +1,4 @@
-# vue2app
+# vue + vuex + webpack SEED project
 
 > 一个vue + vuex + webpack 的项目脚手架, 来自github上若干个优秀脚手架的整合
 
@@ -27,7 +27,7 @@ npm run e2e
 npm test
 ```
 
-# 项目布局
+## 项目布局
 
 ```
 .
