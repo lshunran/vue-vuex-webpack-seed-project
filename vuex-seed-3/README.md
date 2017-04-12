@@ -2,30 +2,31 @@
 
 > 一个vue + vuex + webpack 的项目脚手架, 来自若干个github上优秀脚手架的整合
 
-## Build Setup
+## 运行项目
 
 ``` bash
-# install dependencies
+# 下载依赖
 npm install
 
-# serve with hot reload at localhost:8082
+# 运行项目
 npm run dev
 
-# build for production with minification
+# 打包项目
 npm run build
 
-# build for production and view the bundle analyzer report
+# 打包项目/view the bundle analyzer report
 npm run build --report
 
-# run unit tests
+# 跑单元测试
 npm run unit
 
-# run e2e tests
+# 跑e2e测试
 npm run e2e
 
-# run all tests
+# 统一测试命令
 npm test
 ```
+
 # 项目布局
 
 ```
