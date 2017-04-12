@@ -1,6 +1,6 @@
 # vue2app
 
-> 一个vue + vuex + webpack 的项目脚手架, 来自若干个github上优秀脚手架的整合
+> 一个vue + vuex + webpack 的项目脚手架, 来自github上若干个优秀脚手架的整合
 
 ## 运行项目
 
