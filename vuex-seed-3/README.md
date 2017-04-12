@@ -33,7 +33,6 @@ npm test
 ├── build                                       // webpack配置文件
 ├── config                                      // 定义webpack等需要的变量
 ├── dist                                        // 打包好的静态资源
-├── screenshots                                 // 项目截图
 ├── src                                         // 源码目录
 │   ├── components                              // 组件
 │   │   ├── common                              // 公共组件
