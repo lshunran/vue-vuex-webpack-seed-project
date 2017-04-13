@@ -1,2 +1,2 @@
 # vue-vuex-webpack-seed-project
-two vue+vuex+webpack seed project from yo
+  see vuex-seed-3
